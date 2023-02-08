@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Mayowa Ajiboye",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxUUExYUFBQWFhYXGRkZGBcYGRwZGRwcGBgZGRkWGBkZHy0iGRwnHRgXIzQjJysuMTExGSE2OzYwOiowMS4BCwsLDw4PHRERHTEoIScwMS4wMjAxMDAwLjAyMS4wMjEyMjAwMDAwNTAzMDAwOTAuMDAwMjIwMDAwMDAwMDAyMP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAgMEBQYHAQj/xABHEAACAQIEAwUEBgcHAQkBAAABAhEAAwQSITEFQVEGEyJhcTKBkaEHQlKx0fAUI2JyksHhFRYzU4KT0rIXQ1Rjg6KzwvE0/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAMBAgQFBv/EADMRAAICAQQBAQYEBQUBAAAAAAABAhEDBBIhMUFREyJxkaHwMmGBsRRSweHxIzNDU2IF/9oADAMBAAIRAxEAPwDS0FGrtcJqxQFACuLXQaAO0KFCgAUKFCgACg1Civc1oA4TrSmWkbgzQQdqMlw/CpIFDtRFOlC5qImk8mmXlQAx49wpMTaa03qrdD+HWsQ4/wAHexdZCCrKdPcZy/zH/wCVv4FVjt/2ZGJtG4g/WINY3ZR0/aH55VScdyovjm4spvZbjid0VcSyzERJHIH4AfGj4fitu3aufWa7JVDqDlYDLH2jPwFUy7cay5YDycbejCpvgvHGBm0ilhqqsNM2XVp32muTkwbZ7jv6bLGUK7J3g/Br1uMRcdLJdgwRwPaMQNTKnl16itKvRfw8jwk8+YI3251kTWbt9u+ut3gaVPURrlQchMbdT77X9GXFmNm5YdhmBm2GOpkEkR+d6nq2vKr9fAzU6eWxZF2n4Ju1w8ojHKNGDLB6wJLEaktPLnHKori/DzeOa4y5AugzASYmBA1bQiNoPOpfEY97qBbSsMjAQRlJykZgQZE7iZ58qfDCKqMxXxEGC31c07Eai",
+      "price": "79.99",
+      "id": 8
+    },
+    {
+      "name": "22",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxUUExYUFBQWFhYXGRkZGBcYGRwZGRwcGBgZGRkWGBkZHy0iGRwnHRgXIzQjJysuMTExGSE2OzYwOiowMS4BCwsLDw4PHRERHTEoIScwMS4wMjAxMDAwLjAyMS4wMjEyMjAwMDAwNTAzMDAwOTAuMDAwMjIwMDAwMDAwMDAyMP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAgMEBQYHAQj/xABHEAACAQIEAwUEBgcHAQkBAAABAhEAAwQSITEFQVEGEyJhcTKBkaEHQlKx0fAUI2JyksHhFRYzU4KT0rIXQ1Rjg6KzwvE0/8QAGgEAAgMBAQAAAAAAAAAAAAAAAAMBAgQFBv/EADMRAAICAQQBAQYEBQUBAAAAAAABAhEDBBIhMUFREyJxkaHwMmGBsRRSweHxIzNDU2IF/9oADAMBAAIRAxEAPwDS0FGrtcJqxQFACuLXQaAO0KFCgAUKFCgACg1Civc1oA4TrSmWkbgzQQdqMlw/CpIFDtRFOlC5qImk8mmXlQAx49wpMTaa03qrdD+HWsQ4/wAHexdZCCrKdPcZy/zH/wCVv4FVjt/2ZGJtG4g/WINY3ZR0/aH55VScdyovjm4spvZbjid0VcSyzERJHIH4AfGj4fitu3aufWa7JVDqDlYDLH2jPwFUy7cay5YDycbejCpvgvHGBm0ilhqqsNM2XVp32muTkwbZ7jv6bLGUK7J3g/Br1uMRcdLJdgwRwPaMQNTKnl16itKvRfw8jwk8+YI3251kTWbt9u+ut3gaVPURrlQchMbdT77X9GXFmNm5YdhmBm2GOpkEkR+d6nq2vKr9fAzU6eWxZF2n4Ju1w8ojHKNGDLB6wJLEaktPLnHKori/DzeOa4y5AugzASYmBA1bQiNoPOpfEY97qBbSsMjAQRlJykZgQZE7iZ58qfDCKqMxXxEGC31c07Eai",
+      "price": "22",
+      "id": 9
+    },
+    {
+      "name": "Bulbasaur",
+      "image": "https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_bamboo-palm_slate.jpg?ver=279483",
+      "price": "79.99",
+      "id": 10
+    },
+    {
+      "name": "Bromeliad Pineapple",
+      "image": "https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_bromeliad-pineapple_indigo-e1628794021645.jpg?ver=279193",
+      "price": "79",
+      "id": 11
     }
   ]
 }
